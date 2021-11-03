@@ -1,0 +1,12 @@
+{
+    "name": "neilj/migrate-phpexcel-phpspreadsheet",
+    "authors": [
+        {
+            "name": "Neil Steyn",
+            "email": "neiljsteyn@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "rector/rector": "^0.11.60"
+    }
+}
