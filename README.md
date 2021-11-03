@@ -7,7 +7,7 @@ ref: https://getrector.org/blog/2020/04/16/how-to-migrate-from-phpexcel-to-phpsp
 
 composer install
 
-# 2. Add all your PhpExcel code into the src directory
+# 2. Create a src directory and add all your PhpExcel code into the src directory
 
 # 3.1 Dry run Rector to see what would be changed
 
