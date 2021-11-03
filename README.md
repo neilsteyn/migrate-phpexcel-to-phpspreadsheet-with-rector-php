@@ -17,7 +17,7 @@ php vendor/bin/rector process src --dry-run
 
 php vendor/bin/rector process src
 
-# 4. Change \PhpOffice\PhpSpreadsheet\IOFactory::createWriter($this->xls, 'Excel5'); to \PhpOffice\PhpSpreadsheet\IOFactory::createWriter($this->xls, 'Xls');
+## 4. Change \PhpOffice\PhpSpreadsheet\IOFactory::createWriter($this->xls, 'Excel5'); to \PhpOffice\PhpSpreadsheet\IOFactory::createWriter($this->xls, 'Xls');
 
 
 # 5. Load PhpSpreadsheet with composer autoload
